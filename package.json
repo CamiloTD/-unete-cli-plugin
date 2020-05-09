@@ -1,0 +1,8 @@
+{
+  "name": "@unete-cli/plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:CamiloTD/-unete-cli-plugin.git",
+  "author": "CamiloTD <camilotd1999@gmail.com>",
+  "license": "MIT"
+}
